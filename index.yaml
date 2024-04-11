@@ -3,6 +3,21 @@ entries:
   focalboard:
   - apiVersion: v2
     appVersion: 0.6.7
+    created: "2024-04-11T07:58:40.044911768Z"
+    description: Focalboard Server
+    digest: f5251d2627602cab8224c15697aac95a63a785b169dca3a791d9bbb2e08a8b84
+    keywords:
+    - focalboard
+    - mattermost
+    maintainers:
+    - name: felix
+    name: focalboard
+    type: application
+    urls:
+    - https://github.com/0x46656C6978/helm-charts/releases/download/focalboard-0.5.1/focalboard-0.5.1.tgz
+    version: 0.5.1
+  - apiVersion: v2
+    appVersion: 0.6.7
     created: "2024-04-11T07:07:52.058717073Z"
     description: Focalboard Server
     digest: f42c66d66ce8bc0165e52b2247ce062906803da226ab65e03b9da3948209caa6
@@ -16,4 +31,4 @@ entries:
     urls:
     - https://github.com/0x46656C6978/helm-charts/releases/download/focalboard-0.5.0/focalboard-0.5.0.tgz
     version: 0.5.0
-generated: "2024-04-11T07:07:52.058727583Z"
+generated: "2024-04-11T07:58:40.044945702Z"
